@@ -1,0 +1,10 @@
+version = 0.1
+[default]
+[default.deploy]
+[default.deploy.parameters]
+stack_name = "sam-app-hongsw"
+s3_bucket = "aws-sam-cli-managed-default-samclisourcebucket-boay6d293sn1"
+s3_prefix = "sam-app-hongsw"
+region = "ap-northeast-2"
+capabilities = "CAPABILITY_IAM"
+image_repositories = []

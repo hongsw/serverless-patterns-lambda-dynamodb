@@ -1,0 +1,1 @@
+curl -X POST https://d762jpe9n9.execute-api.ap-northeast-2.amazonaws.com/default/Hello  -H "x-api-key: 6n6Y4MIkCXaM6gF0r83km9XZHPdWCHjy8czaqO3d" -H "Content-Type: application/json" -d '{ "Metadata": "Hello" }'
